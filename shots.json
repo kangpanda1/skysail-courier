@@ -1,0 +1,6 @@
+[
+  { "name": "1-flight.jpg", "query": "?shot=cover" },
+  { "name": "2-cockpit.jpg", "query": "?shot=cockpit" },
+  { "name": "3-storm.jpg", "query": "?shot=storm" },
+  { "name": "4-landing.jpg", "query": "?shot=delivery" }
+]
